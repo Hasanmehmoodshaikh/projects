@@ -1,0 +1,6 @@
+{'name': 'Adnan Shaikh', 'roll_no': 1, 'marks': 65}
+{'name': 'Tabrez Maniyar', 'roll_no': 2, 'marks': 44}
+{'name': 'Iliyas Shaikh', 'roll_no': 3, 'marks': 64}
+{'name': ' Suraj Chavan', 'roll_no': 4, 'marks': 56}
+{'name': 'Mayur Survase', 'roll_no': 5, 'marks': 46}
+{'name': 'Umar Shaikh', 'roll_no': 6, 'marks': 88}
